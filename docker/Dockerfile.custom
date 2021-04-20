@@ -8,3 +8,4 @@ FROM freqtradeorg/freqtrade:develop
 RUN pip install --user pyti
 
 # USER ftuser
+RUN pip install --user finta
